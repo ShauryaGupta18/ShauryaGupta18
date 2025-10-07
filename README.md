@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ShauryaGupta18
-- 👀 I’m interested in --
+- 👋 Hi, I’m Shaurya Gupta
 - 🌱 I’m currently learning Python
 
 
